@@ -1,0 +1,1 @@
+Very simple bookmark app for practice. Uses local storage.
